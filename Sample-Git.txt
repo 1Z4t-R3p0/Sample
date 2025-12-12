@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 Hello world 
 
 This is Working Directory
+=======
+>>>>>>> parent of c7786d9 (i modified a sample-git)
